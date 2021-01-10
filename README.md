@@ -27,7 +27,7 @@
 
 ## 🔧 Latest project:
 
-- SimpsonsOnAir 
+- SimpsonsOnAir - https://twitter.com/SimpsonsOnAir
 
 
 
