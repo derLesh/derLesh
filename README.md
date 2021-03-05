@@ -28,7 +28,7 @@
 ## 🔧 Latest project:
 
 - SimpsonsOnAir - https://twitter.com/SimpsonsOnAir
-- Local Corona Notification - (GitHub Repo){https://github.com/derLesh/local-corona-notification]
+- Local Corona Notification -  [GitHub Repo](https://github.com/derLesh/local-corona-notification)
 
 
 <!--
