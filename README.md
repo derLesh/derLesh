@@ -12,7 +12,7 @@
 </p>
 
 ---
-
+  
 ### Skill Overview
 
 | 💬 Languages | 🔧 Worked with | 💡 Libraries and more | 👨‍💻 Wants to learn |
@@ -23,8 +23,16 @@
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) | | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=derlesh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+<span align="center">
+  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=derlesh&theme=dracula)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/derLesh?theme=dark&font=Fira%20Code)
+  
+</span>
+  
 ---
 
 ## 🔧 Latest projects:
