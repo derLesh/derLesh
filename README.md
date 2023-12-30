@@ -1,16 +1,22 @@
-<h1 align=center>👋 Hello, I'm Lukas!</h1>
+# 👋 Hello, I'm Lukas
 
-
-💙 I'm a hobby developer and currently study Computer Science in Germany.
+I'm a Computer Science Student and like to program in Python or JavaScript!
 
 ### Contact me here:
+<ul style="list-style: none !important;">
+  <li><a style="text-decoration: none !important;" href="https://twitter.com/derLesh">🐦 Twitter</a></li>
+  <li><a style="text-decoration: none !important;" href="https://threads.com/der.lesh">🧵 Threads</a></li>
+  <li><a style="text-decoration: none !important;" href="https://bsky.app/profile/lesh.me">🦋 Bluesky</a></li>
+  <li><a style="text-decoration: none !important;" href="https://mstdn.social/@Lesh">🐘 Mastodon (Not active)</a></li>
+  <li><a style="text-decoration: none !important;" href="https://instagram.com/derLesh">📷 Instagram</a></li>
+  <li><a style="text-decoration: none !important;" href="https://discord.com/invite/5cyqjrP">👾 Discord</a></li>
+</ul>
 
-<p align="left">
-  <a href="https://twitter.com/derLesh"><img height="50" src="https://github.com/derLesh/derLesh/blob/main/icons/twitter.png?raw=true" /></a>
-  <a href="https://instagram.com/derLesh"><img height="50" src="https://github.com/derLesh/derLesh/blob/main/icons/instagram.png?raw=true" /></a> 
-  <a href="https://discord.com/invite/5cyqjrP"><img height="50" src="https://github.com/derLesh/derLesh/blob/main/icons/discord.png?raw=true" /></a> 
-</p>
-
+<!--
+<img height="50" src="https://github.com/derLesh/derLesh/blob/main/icons/twitter.png?raw=true" />
+<img height="50" src="https://github.com/derLesh/derLesh/blob/main/icons/instagram.png?raw=true" />
+<img height="50" src="https://github.com/derLesh/derLesh/blob/main/icons/discord.png?raw=true" />
+-->
 ---
   
 ### Skill Overview
@@ -22,39 +28,34 @@
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) | | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-2ea44f?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
-
-<span align="center">
-  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=derlesh&theme=dracula)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/derLesh?theme=dark&font=Fira%20Code)
-  
-</span>
-  
 ---
 
 ## 🔧 Latest projects:
 
-### SimpsonsOnAir - https://twitter.com/SimpsonsOnAir
-A Twitter bot announcing the next episode of the Simpsons airing on ProSieben.
-
-### Local Corona Notification -  [GitHub Repo](https://github.com/derLesh/local-corona-notification)
-A Python script sends an email with an overview of the current status of the corona virus based on the public data of the RKI.
+### <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> SimpsonsOnAir - [Twitter](https://twitter.com/SimpsonsOnAir) / [Threads](https://www.threads.net/@simpsonsonair)
+A Twitter/Threads bot announcing the next episode of the Simpsons airing on ProSieben.
 
 
-<!--
-**derLesh/derLesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" /> SteamArtTag - [GitHub Repo](https://github.com/derLesh/SteamArtTag)
+Add a small badge to your Steam Library Artworks
 
-Here are some ideas to get you started:
+### <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> PointChaser - [GitHub Repo](https://github.com/derLesh/PointChaser)
+Which player can achive more points before the timer runs out - A Minecraft Gamemode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=derlesh&hide_title=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derlesh&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=derlesh#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derlesh&layout=compact&langs_count=8&card_width=320#gh-light-mode-only" />
+</a>
