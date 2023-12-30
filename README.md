@@ -4,12 +4,12 @@ I'm a Computer Science Student and like to program in Python or JavaScript!
 
 ### Contact me here:
 <ul style="list-style: none !important;">
-  <li><a style="text-decoration: none !important;" href="https://twitter.com/derLesh">🐦 Twitter</a></li>
-  <li><a style="text-decoration: none !important;" href="https://threads.com/der.lesh">🧵 Threads</a></li>
-  <li><a style="text-decoration: none !important;" href="https://bsky.app/profile/lesh.me">🦋 Bluesky</a></li>
-  <li><a style="text-decoration: none !important;" href="https://mstdn.social/@Lesh">🐘 Mastodon (Not active)</a></li>
-  <li><a style="text-decoration: none !important;" href="https://instagram.com/derLesh">📷 Instagram</a></li>
-  <li><a style="text-decoration: none !important;" href="https://discord.com/invite/5cyqjrP">👾 Discord</a></li>
+  <li>🐦 <a style="text-decoration: none !important;" href="https://twitter.com/derLesh">Twitter</a></li>
+  <li>🧵 <a style="text-decoration: none !important;" href="https://threads.com/der.lesh">Threads</a></li>
+  <li>🦋 <a style="text-decoration: none !important;" href="https://bsky.app/profile/lesh.me">Bluesky</a></li>
+  <li>🐘 <a style="text-decoration: none !important;" href="https://mstdn.social/@Lesh">Mastodon (Not active)</a></li>
+  <li>📷 <a style="text-decoration: none !important;" href="https://instagram.com/derLesh">Instagram</a></li>
+  <li>👾 <a style="text-decoration: none !important;" href="https://discord.com/invite/5cyqjrP">Discord</a></li>
 </ul>
 
 <!--
