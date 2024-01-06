@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lukas
 
-I'm a Computer Science Student and like to program in Python or JavaScript!
+I'm a Computer Science Student and like to program in Python or JavaScript! Prefered web framework: Svelte
 
 ### Contact me here:
 <ul style="list-style: none !important;">
@@ -8,7 +8,7 @@ I'm a Computer Science Student and like to program in Python or JavaScript!
   <li>🧵 <a style="text-decoration: none !important;" href="https://threads.com/der.lesh">Threads</a></li>
   <li>🦋 <a style="text-decoration: none !important;" href="https://bsky.app/profile/lesh.me">Bluesky</a></li>
   <li>🐘 <a style="text-decoration: none !important;" href="https://mstdn.social/@Lesh">Mastodon (Not active)</a></li>
-  <li>📷 <a style="text-decoration: none !important;" href="https://instagram.com/derLesh">Instagram</a></li>
+  <li>📷 <a style="text-decoration: none !important;" href="https://instagram.com/der.Lesh">Instagram</a></li>
   <li>👾 <a style="text-decoration: none !important;" href="https://discord.com/invite/5cyqjrP">Discord</a></li>
 </ul>
 
